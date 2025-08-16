@@ -39,10 +39,10 @@ export default function App() {
     {
       title: "Project One",
       description:
-        "A brief description of this project, highlighting the technologies used and its purpose. For instance, a full-stack web application for task management.",
-      tags: ["React", "Node.js", "PostgreSQL", "Tailwind CSS"],
-      link: "#",
-      repo: "#",
+        "A modern web application designed for a law firm, built using React and Tailwind CSS. The application focuses on delivering a professional, user-friendly interface tailored to the firm's needs, ensuring efficient information display and smooth client interactions.",
+      tags: ["React", "Tailwind CSS"],
+      link: "https://kanooniastra.com/",
+      repo: "https://github.com/parasmanibhattarai/Kanooniastra",
     },
     {
       title: "Project Two",
